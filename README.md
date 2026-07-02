@@ -1,7 +1,7 @@
-s<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=20&text=Akal%20Man%20Nakarmi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+<img src="images/capsule.svg" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22Every%20line%20of%20code%20is%20a%20liability.%22" alt="Typing introduction" />
+  <img src="images/typing.svg" alt="Typing introduction" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@ s<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gr
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
+<img src="images/banner.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 🐾 The Red Panda Developer; calm, curious, and systems-oriented.
@@ -44,54 +44,40 @@ s<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gr
 
 ## 🛠️ Languages & Tools
 
-<h3 align="center">Programming Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" />
-
+  <img src="images/typescript.svg" width="40" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="images/python.svg" width="40" alt="Python" />&nbsp;&nbsp;
+  <img src="images/zig.svg" width="40" alt="Zig" />&nbsp;&nbsp;
+  <img src="images/c.svg" width="40" alt="C" />&nbsp;&nbsp;
+  <img src="images/react.svg" width="40" alt="React" />&nbsp;&nbsp;
+  <img src="images/nextjs.svg" width="40" alt="Next.js" />&nbsp;&nbsp;
+  <img src="images/html5.svg" width="40" alt="HTML5" />
 </p>
-
-<h3 align="center">Frontend</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-
+  <img src="images/css3.svg" width="40" alt="CSS3" />&nbsp;&nbsp;
+  <img src="images/tailwindcss.svg" width="40" alt="Tailwind CSS" />&nbsp;&nbsp;
+  <img src="images/bootstrap.svg" width="40" alt="Bootstrap" />&nbsp;&nbsp;
+  <img src="images/fastapi.svg" width="40" alt="FastAPI" />&nbsp;&nbsp;
+  <img src="images/django.svg" width="40" alt="Django" />&nbsp;&nbsp;
+  <img src="images/flask.svg" width="40" alt="Flask" />&nbsp;&nbsp;
+  <img src="images/mysql.svg" width="40" alt="MySQL" />
 </p>
-
-<h3 align="center">Backend</h3>
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="40" />
-
+  <img src="images/postgresql.svg" width="40" alt="PostgreSQL" />&nbsp;&nbsp;
+  <img src="images/redis.svg" width="40" alt="Redis" />&nbsp;&nbsp;
+  <img src="images/sqlite.svg" width="40" alt="SQLite" />&nbsp;&nbsp;
+  <img src="images/docker.svg" width="40" alt="Docker" />&nbsp;&nbsp;
+  <img src="images/kubernetes.svg" width="40" alt="Kubernetes" />&nbsp;&nbsp;
+  <img src="images/nginx.svg" width="40" alt="Nginx" />&nbsp;&nbsp;
+  <img src="images/aws.svg" width="40" alt="AWS" />
 </p>
-
-<h3 align="center">Database</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
-</p>
-
-<h3 align="center">DevOps & Cloud</h3>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />
-
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
-
+  <img src="images/githubactions.svg" width="40" alt="GitHub Actions" />&nbsp;&nbsp;
+  <img src="images/linux.svg" width="40" alt="Linux" />&nbsp;&nbsp;
+  <img src="images/arch.svg" width="40" alt="Arch" />&nbsp;&nbsp;
+  <img src="images/git.svg" width="40" alt="Git" />&nbsp;&nbsp;
+  <img src="images/vscode.svg" width="40" alt="VS Code" />&nbsp;&nbsp;
+  <img src="images/postman.svg" width="40" alt="Postman" />
 </p>
 
 <p align="center">
@@ -103,22 +89,22 @@ s<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gr
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/akalmannakarmi/">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+    <img src="images/linkedin.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
   <a href="mailto:akalnakarmi1@gmail.com">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+    <img src="images/gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://akal.com.np">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+    <img src="images/website.svg" alt="Website" width="40" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+  <img src="game.gif" alt="Space shooter contribution graph" />
 </p>
 
 <p align="center"><a href="https://www.buymeacoffee.com/akalmannakarmi" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+  <img src="images/bottom-line.gif" alt="Bottom Line" width="100%" />
 </div>
