@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Akal%20Man%20Nakarmi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
+s<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=20&text=Akal%20Man%20Nakarmi&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=%22Every%20line%20of%20code%20is%20a%20liability.%22" alt="Typing introduction" />
